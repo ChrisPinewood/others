@@ -1,8 +1,10 @@
-# Section 1
-This is a test _section_
+# Project details
+Project:
+Researchers:
+Description:
 
-# Section 2
-And this is *another*
+# Introduction
+_Add a paragraph or two explaining at a high level what is involved_
 
-# Section 3
-Oh I better add some text here
+# Fixed section x
+_Enter details according to standard type x_
